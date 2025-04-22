@@ -7,14 +7,17 @@ Hi there! I'm Mónica Costa 👩‍💻
 😄 Pronouns: She/Her
 🏃‍♂️ Hobbies: drawing, watching sci-fi series and geeking out over cool datasets
 
+
 💻 Projects:
 🎲 https://bgg-project-predict-the-best-game-possible.streamlit.app/ - Machine Learning model to predict the rating of board games based on their features. 
 The project involved text vectorization using Bag of Words as data preprocessing and feature engineering. 
 After testing several models, XGBoost delivered the best performance.
 This project strengthened my skills in building and evaluating Machine Learning models using real-world data.
 
+
 💻 Tech Stack:
 - Python
+
 
 <!---
 mopirescosta/mopirescosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
