@@ -1,10 +1,15 @@
 Hi there! I'm Mónica Costa 👩‍💻
 
 📍 Based in Portugal
+
 🎓 Background in Civil Engineering (MSc from Instituto Superior Técnico, Lisbon)
-💻 Data Scientist, driven by curiosity and a love for solving real-world problems with data
+
+🤖 Data Scientist, driven by curiosity and a love for solving real-world problems with data
+
 💡 Passionate about sustainability, art and ethical AI
+
 😄 Pronouns: She/Her
+
 🏃‍♂️ Hobbies: drawing, watching sci-fi series and geeking out over cool datasets
 
 
@@ -21,6 +26,7 @@ This project strengthened my skills in building and evaluating Machine Learning 
 - Jupyter
 - Streamlit
 - Trello
+
 
 
 <!---
