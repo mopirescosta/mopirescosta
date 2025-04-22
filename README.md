@@ -14,6 +14,7 @@ Hi there! I'm Mónica Costa 👩‍💻
 
 
 💻 Projects:
+
 🎲 https://bgg-project-predict-the-best-game-possible.streamlit.app/ - Machine Learning model to predict the rating of board games based on their features. 
 The project involved text vectorization using Bag of Words as data preprocessing and feature engineering. 
 After testing several models, XGBoost delivered the best performance.
