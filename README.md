@@ -17,6 +17,10 @@ This project strengthened my skills in building and evaluating Machine Learning 
 
 💻 Tech Stack:
 - Python
+- VS Code
+- Jupyter
+- Streamlit
+- Trello
 
 
 <!---
