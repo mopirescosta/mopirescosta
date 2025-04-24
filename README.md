@@ -4,13 +4,13 @@ Hi there! I'm Mónica Costa 👩‍💻
 
 🎓 Background in Civil Engineering (MSc from Instituto Superior Técnico, Lisbon)
 
-🤖 Data Scientist, driven by curiosity and a love for solving real-world problems with data
+🤖 Data Scientist driven by curiosity and a passion for solving real-world challenges through data
 
-💡 Passionate about sustainability, art and ethical AI
+💡 Enthusiastic about sustainability, ethical AI, and the intersection of technology and engineering
 
 😄 Pronouns: She/Her
 
-🏃‍♂️ Hobbies: drawing, watching sci-fi series and geeking out over cool datasets
+🎨 Hobbies: drawing, diving into sci-fi series, and geeking out over fascinating datasets
 
 
 💻 Projects:
